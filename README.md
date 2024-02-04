@@ -1,5 +1,3 @@
-Natürlich, hier ist die README-Datei im Markdown-Format für dein GitHub-Repository, das Übungen aus einem Datenbankkurs mit Fokus auf C# Code-First-Anwendungen und LINQ enthält:
-
 # Datenbankkurs 2023-2024: C# Code-First & LINQ
 
 Willkommen im Repository für den Datenbankkurs 2023-2024! Dieses Repo dient als Sammelstelle für alle Übungen, die im Laufe des Kurses bearbeitet wurden, mit einem speziellen Fokus auf C# Code-First-Anwendungen und LINQ-Abfragen.
